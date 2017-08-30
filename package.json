@@ -51,5 +51,6 @@
     "valid-url": "latest",
     "walk": "latest"
   },
-  "snyk": true
+  "snyk": true,
+  "abc": "def"
 }
