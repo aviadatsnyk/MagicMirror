@@ -44,7 +44,7 @@
     "express": "^4.14.0",
     "feedme": "latest",
     "iconv-lite": "latest",
-    "moment": "latest",
+    "moment": "2.29.4",
     "request": "^2.74.0",
     "rrule": "latest",
     "snyk": "^1.14.1",
